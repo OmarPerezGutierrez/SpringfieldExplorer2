@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     window.addEventListener('offline', () => {
-        showNotification('La aplicación está fuera de línea', '../Images/offline.png');
+        showNotification('La aplicación está fuera de línea', '../images/offline.png');
         notificationShown = false; // Reiniciar el flag cuando cambia a estado "offline"
     });
 
