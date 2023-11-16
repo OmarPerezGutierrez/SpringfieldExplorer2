@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f5e7a1; 
-    background-image: url('../Images/fondo.png');
+    background-image: url('../images/fondo.png');
     background-size: cover;
     background-position: center;
     height: 100vh; 

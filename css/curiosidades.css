@@ -7,7 +7,7 @@ body {
     background-color: #f0f0f0;
     display: flex;
     justify-content: center;
-    background-image: url('../Images/fondo.png');
+    background-image: url('../images/fondo.png');
     background-size: cover;
     background-position: center;
     align-items: center;

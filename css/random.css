@@ -2,7 +2,7 @@ body {
     font-family: 'Caveat', cursive;
     margin: 0;
     padding: 0;
-    background-image: url('../Images/fondo.png');
+    background-image: url('../images/fondo.png');
     background-size: cover;
     height: 100vh;
     display: flex;

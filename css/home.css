@@ -10,7 +10,7 @@ body {
     background-color: #f4f4f4;
     background-size: cover;  /* Usé cover para cubrir todo el fondo */
     background-position: center;
-    background-image: url('../Images/fondo.png');
+    background-image: url('../images/fondo.png');
 }
 
 #home {
