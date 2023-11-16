@@ -1,3 +1,0 @@
-# SpringfieldExplorer2
-
-asdasd
