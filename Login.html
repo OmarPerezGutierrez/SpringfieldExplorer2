@@ -46,9 +46,9 @@
                     alert('Inicio de sesión exitoso');
 
                     if (user.isAdmin) {
-                        window.location.href = 'Admin.php';
+                        window.location.href = 'Admin.html';
                     } else {
-                        window.location.href = 'Login.php';
+                        window.location.href = 'Login.html';
                     }
                 } else {
                     alert('Credenciales incorrectas. Inténtalo de nuevo.');
@@ -59,7 +59,7 @@
         }
 
         function regresarAHome() {
-            window.location.href = 'home.php';
+            window.location.href = 'home.html';
         }
 
         window.addEventListener("load", () => {

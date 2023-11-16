@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     setTimeout(() => {
-        window.location.href = 'Home.php';
+        window.location.href = 'Home.html';
     }, 50000);
 
     // Verificar conexión al cargar la página
