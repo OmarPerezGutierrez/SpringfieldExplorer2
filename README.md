@@ -16,7 +16,7 @@ Springfield Explorer es una aplicación web que te permite explorar curiosidades
 - IndexedDB para el almacenamiento local de datos.
 - Service Worker para la funcionalidad offline y el rendimiento mejorado.
 - Workbox para simplificar la gestión del Service Worker y el almacenamiento en caché.
-- 
+
 ## GitHub Pages
 Este proyecto está también disponible en GitHub Pages. Puedes acceder a la aplicación .
 https://omarperezgutierrez.github.io/SpringfieldExplorer2/
