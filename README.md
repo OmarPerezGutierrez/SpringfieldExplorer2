@@ -18,11 +18,12 @@ Springfield Explorer es una aplicación web que te permite explorar curiosidades
 - Workbox para simplificar la gestión del Service Worker y el almacenamiento en caché.
 - 
 ## GitHub Pages
-Este proyecto está también disponible en GitHub Pages. Puedes acceder a la aplicación aquí.
+Este proyecto está también disponible en GitHub Pages. Puedes acceder a la aplicación .
+https://omarperezgutierrez.github.io/SpringfieldExplorer2/
+
 ## Instalación y Uso
 
 1. Clona este repositorio en tu máquina local.
-
 ```bash
 git clone https://github.com/tuusuario/springfield-explorer.git
 
